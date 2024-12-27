@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 
 ### - 💬 Ask me about PKM/WorkFlowy...
 
-- 📫 How to reach me: [my WordPress.com blog](https://schooladvisor26.wordpress.com/)
+- 📫 How to reach me: Google my name.
 
 - ⚡ Fun fact: I'm a California native.
