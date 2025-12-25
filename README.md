@@ -8,7 +8,7 @@
 - I have 10+ years experience with basic blogging and PKMS.
 - 📫 How to reach me: Google my name.
 - ⚡ Fun fact: I live in California and went to Fresno's first DevFest.
-- Note to self read GitHub's [Terms](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service), [Privacy Policy](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement), and [Security pages](https://github.com/security).
+- Note to self read GitHub's [Terms](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service), [Privacy Policy](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement), and [Security](https://github.com/security) pages.
 <!--
 **derezion/derezion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
 
