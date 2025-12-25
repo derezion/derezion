@@ -7,7 +7,7 @@
 - I took a BitWise Workforce Training class in 2022.
 - I have 10+ years experience with basic blogging and PKMS.
 - 📫 How to reach me: Google my name.
-- ⚡ Fun fact: I'm a California native.
+- ⚡ Fun fact: I live in California and went to Fresno's first DevFest.
 <!--
 **derezion/derezion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
 
