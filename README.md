@@ -6,6 +6,7 @@
 - I was part of the Fresno WordPress Meetup in 2016.
 - I took a BitWise Workforce Training class in 2022.
 - I have 10+ years experience with basic blogging and PKMS.
+- Also an aspiring Bible expert, writer, and computer geek.
 - 📫 How to reach me: Google my name.
 - ⚡ Fun fact: I live in California and went to Fresno's first DevFest.
 - Note to self read GitHub's [Terms](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service), [Privacy Policy](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement), and [Security](https://github.com/security) pages.
