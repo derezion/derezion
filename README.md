@@ -10,7 +10,7 @@
 - Note: I don't always follow back. No disrespect.
 - 📫 How to reach me: Google my name.
 - ⚡ Fun fact: I live in California and went to Fresno's first DevFest.
-- Note to self read GitHub's [Terms](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service), [Privacy Policy](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement), and [Security](https://github.com/security) pages.
+- **Note to self:** read GitHub's [Terms](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service), [Privacy Policy](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement), and [Security](https://github.com/security) pages.
 <!--
 **derezion/derezion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
 
